@@ -28,7 +28,17 @@ function App () {
           <a href="#register.jsx">register:  </a></span>
        </p>
     </div>
-    
+    <footer className="bg-gray-500 text-center sticky mb-0 z-10 ">
+  <section className="max-w-4xl mx-auto p-4 flex justify-between items-center">
+    <article className="w-1/1">
+    <p className="text-3xl mr-20 font-bold text-white 
+    ml-60">
+      Why They Choose <span className="text-indigo-700 dark:text-indigo-200">
+        Us It not Because I bout </span>Nice Staff...
+    </p>
+    </article>
+  </section>
+    </footer>
     </>
   )
 }
