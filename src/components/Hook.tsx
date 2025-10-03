@@ -32,10 +32,12 @@ function Hook () {
         className="text-indigo-700 dark:text-indigo-300">
           <a href="#register.jsx">register:  </a></span>
        </p>
+       
        <img
        
-       className='h-60 w-120'
+       className='h-60 w-120 object-cover relative rounded-xl'
        src={rockets}  />
+       
     </div>
     
     <footer className="bg-gray-500 text-center sticky mb-0 z-10 ">

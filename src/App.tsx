@@ -10,6 +10,7 @@ import Hook from "./components/Hook.tsx";
 function App() {
   return (
     <>
+    <div id="button-section"></div>
       <Hook />
       <Button />
     </>
